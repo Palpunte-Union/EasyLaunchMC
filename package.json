@@ -1,0 +1,9 @@
+{
+  "name": "EasyLaunchMC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Palpunte-Union/EasyLaunchMC.git",
+  "author": "eight_y_88 <jadec.eight@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
